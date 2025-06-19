@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\learn cs\wfc\mapgenerator\obj\Debug\net9.0\mapgenerator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\learn cs\wfc\mapgenerator\obj\Debug\net9.0\mapgenerator.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\learn cs\wfc\mapgenerator\obj\Debug\net9.0\mapgenerator.AssemblyInfo.cs
+C:\Users\user\Desktop\learn cs\wfc\mapgenerator\obj\Debug\net9.0\mapgenerator.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\learn cs\wfc\mapgenerator\bin\Debug\net9.0\mapgenerator.exe
+C:\Users\user\Desktop\learn cs\wfc\mapgenerator\bin\Debug\net9.0\mapgenerator.deps.json
+C:\Users\user\Desktop\learn cs\wfc\mapgenerator\bin\Debug\net9.0\mapgenerator.runtimeconfig.json
+C:\Users\user\Desktop\learn cs\wfc\mapgenerator\bin\Debug\net9.0\mapgenerator.dll
+C:\Users\user\Desktop\learn cs\wfc\mapgenerator\bin\Debug\net9.0\mapgenerator.pdb
+C:\Users\user\Desktop\learn cs\wfc\mapgenerator\obj\Debug\net9.0\mapgenerator.dll
+C:\Users\user\Desktop\learn cs\wfc\mapgenerator\obj\Debug\net9.0\refint\mapgenerator.dll
+C:\Users\user\Desktop\learn cs\wfc\mapgenerator\obj\Debug\net9.0\mapgenerator.pdb
+C:\Users\user\Desktop\learn cs\wfc\mapgenerator\obj\Debug\net9.0\mapgenerator.genruntimeconfig.cache
+C:\Users\user\Desktop\learn cs\wfc\mapgenerator\obj\Debug\net9.0\ref\mapgenerator.dll
